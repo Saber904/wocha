@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="rotate_degrees">
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+    </integer-array>
+
+    <integer-array name="no_num_balls">
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+    </integer-array>
+    
+    <integer-array name="with_num_balls">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </integer-array>
+    
+    <string-array name="stage_nums">
+        <item>第一关</item>
+        <item>第二关</item>
+        <item>第三关</item>
+    </string-array>
+</resources>

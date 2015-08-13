@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">我插</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">game</string>
+    <string name="restart">重新游戏</string>
+    <string name="over">结束游戏</string>
+</resources>
